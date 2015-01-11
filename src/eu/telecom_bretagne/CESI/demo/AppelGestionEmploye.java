@@ -39,7 +39,7 @@ public class AppelGestionEmploye {
 	}
 
 	public static void test_creerEmploye() {
-		getGestionEmploye().creerEmploye("nom1", "prenom1",  1);
+//		getGestionEmploye().creerEmploye("nom1", "prenom1",  1);
 	}
 
 }
